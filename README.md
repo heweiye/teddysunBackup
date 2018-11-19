@@ -411,7 +411,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/teddysun/across/ma
 chmod +x l2tp.sh
 ./l2tp.sh
 ```
-#### 使用命令：
+使用命令：
 l2tp -a 新增用户
 l2tp -d 删除用户
 l2tp -m 修改现有的用户的密码
