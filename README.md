@@ -1,6 +1,6 @@
 # 秋水逸冰写的脚本
-https://teddysun.com/
- https://github.com/teddysun
+- https://teddysun.com/
+- https://github.com/teddysun
 ## 脚本索引
 
 * [***代理相关***](#代理相关)
