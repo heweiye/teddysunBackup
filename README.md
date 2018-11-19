@@ -21,7 +21,6 @@ https://teddysun.com/
 - 脚本说明: ShadowsocksR 一键安装/管理脚本，支持单端口/多端口切换和管理
 - 系统支持: Auto Install Shadowsocks(Python) Server for CentOS/Debian/Ubuntu
 - 使用方法: https://teddysun.com/342.html
-- 项目地址: https://github.com/ToyoDAdoubi/shadowsocksr
 
 #### 下载安装:
 ``` bash
@@ -76,8 +75,7 @@ chmod +x shadowsocks.sh
 
 - 脚本说明: Shadowsocks-go一键安装脚本
 - 系统支持: CentOS，Debian，Ubuntu
-- 使用方法: https://doub.io/ss-jc60/
-- 项目地址: https://github.com/ToyoDAdoubi/shadowsocksr
+- 使用方法: https://teddysun.com/392.html
 
 #### 下载安装:
 ``` bash
